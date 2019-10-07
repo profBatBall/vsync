@@ -534,7 +534,7 @@ body {
 .logo {
   height: 40px;
   width: 120px;
-  background: url("../img/mylogo.png");
+  background: url("../img/mylogo.gif");
   background-size: contain;
   background-repeat: no-repeat;
   margin: 6px 0 7px 20px;
